@@ -1,7 +1,7 @@
 # DNS Query program in C using Sockets
 
 <li>The code is written in C </li>
-<li>Make sure to compile the code by typing below in terminal 
+<li>Make sure to compile the code by typing below in Linux terminal 
 
     gcc DNS.c -o DNS 
 <li> The code is provided with comments and DNS protocol pdf file for clarity </li>
@@ -13,6 +13,5 @@
 
 <li> One example is as follows -- for Amazon.com about it's IPv4 address </li>
 <li> 
-     
      ./DNS amazon.com a
 
