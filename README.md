@@ -1,4 +1,4 @@
-#DNS Query program in C using Sockets
+# DNS Query program in C using Sockets
 
 <li>The code is written in C </li>
 <li>Make sure to compile the code by typing below in terminal 
