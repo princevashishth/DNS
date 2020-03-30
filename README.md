@@ -11,7 +11,7 @@
  
     ./DNS name_of_host dns_record_type
 
-<li> One example is as follows -- for Amazon.com about it's IPv4 address </li>
-<li> 
+<li> One example is as follows -- for Amazon.com about it's IPv4 address 
+
      ./DNS amazon.com a
 
