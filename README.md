@@ -3,9 +3,10 @@
 <li>The code is written in C </li>
 <li>Make sure to compile the code by typing below in terminal 
 
-    gcc DNS.c -o DNS </li>
+    gcc DNS.c -o DNS 
 <li> The code is provided with comments and DNS protocol pdf file for clarity </li>
-## Usage
+
+# Usage
 <li> Run the code by typing below 
     ./DNS name_of_host dns_record_type
 <li> One example is as follows -- for Amazon.com about it's IPv4 address </li>
